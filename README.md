@@ -66,5 +66,9 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nongdancryptos&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+<!-- TieuPhu -->
+<a href="#" target="_blank">
+  <img src="svg/github-contribution-grid-snake-dark.svg" width="1200" alt="Click to see the source" />
+</a>
 
 
