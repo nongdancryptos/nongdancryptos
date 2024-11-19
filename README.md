@@ -67,35 +67,4 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-    <h2>Where to find me</h2>
-    <div class="social-icons">
-        <a href="https://t.me/yourusername" target="_blank">
-            <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_2024_logo.svg" alt="Telegram">
-        </a>
-        <a href="https://twitter.com/yourusername" target="_blank">
-            <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Twitter_2024_logo.svg" alt="Twitter">
-        </a>
-        <a href="https://www.youtube.com/channel/yourchannelid" target="_blank">
-            <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/YouTube_2024_logo.svg" alt="YouTube">
-        </a>
-        <a href="mailto:youremail@example.com">
-            <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Gmail_2024_logo.svg" alt="Gmail">
-        </a>
-    </div>
-</div>
-
-<br>
-
-<h2 align="center">📑 Random DEV Quotes 📑</h2>
-<br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-  
-</div>
-
 
