@@ -1,11 +1,19 @@
-## Hi there! I'm Tiều Phu (DEV). <img src="https://github.com/justanoobcoder/justanoobcoder/blob/master/handwave.gif" width="25">
-<img align="right" alt="GIF" src="https://github.com/justanoobcoder/justanoobcoder/blob/master/programming.gif" width="350"/>
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF"/>
+</div>
+<h1 align="center">Hi <img src="https://github.com/justanoobcoder/justanoobcoder/blob/master/handwave.gif" width="25">, I'm Tiều Phu</h1> 
+<h3 align="center">A passionate frontend developer from Việt Nam</h3> 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF"/>
+</div>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="350"/>
 
 ### ℹ️ About Me
 
-- 🎓 &nbsp; I'm currently a software engineering student at Dev University.
-- 🤔 &nbsp; I'm still learning lots of things and having a plan on building a Linux From Scratch system.
-- ❤️ &nbsp; Coding, watching movies, volleyball , listening to music, doing stuff on Linux.
+- 🎓 &nbsp; I'm a passionate developer who enjoys building software solutions and learning new technologies. I love working on projects where creativity and logical thinking intersect.
+- 🤔 &nbsp; In my free time, I enjoy listening to music, watching movies, hitting the gym, traveling, and exploring opportunities to make money online.
+- ❤️ &nbsp; Let's connect and create something amazing together!
 
 ### 🛠 Tech Stack
 
@@ -13,61 +21,37 @@
 - 💻 &nbsp; C | C++ | Java | JavaScript | Python | C# | Neovim | Shell Scripting
 - 🔧 &nbsp; Git
 <br>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF"/>
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nongdancryptos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="NongDanCryptos Github Stats">
+<div align="center">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" alt="Remix"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
 
-</br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nongdancryptos&layout=compact&text_color=daf7dc&bg_color=222222)
-
-<!-- Thaihieudev -->
+<!-- TieuPhu -->
 <a href="#" target="_blank">
   <img src="svg/tieuphu.svg" width="1200" alt="Click to see the source" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
 
 <br>
 
@@ -85,26 +69,22 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
 <div align="center">
-  <a href="https://github.com/nongdancryptos" target="blank">
-    <img width="90" height="90" src="images/OnTopAirdrop.jpg" alt="thahieu-blog" />
-  </a>
-  <a href="https://www.facebook.com/hieuidol2706" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thaihieu-facebook" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCukQqlkpXNV84wMeFDhOAGw" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thaihieu-youtube" />
-  </a>
-  
-  <a href="https://www.instagram.com/thaivanhieu2706/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thaihieu-instagram" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thaihieu-email" />
-  </a>
+    <h2>Where to find me</h2>
+    <div class="social-icons">
+        <a href="https://t.me/yourusername" target="_blank">
+            <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_2024_logo.svg" alt="Telegram">
+        </a>
+        <a href="https://twitter.com/yourusername" target="_blank">
+            <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Twitter_2024_logo.svg" alt="Twitter">
+        </a>
+        <a href="https://www.youtube.com/channel/yourchannelid" target="_blank">
+            <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/YouTube_2024_logo.svg" alt="YouTube">
+        </a>
+        <a href="mailto:youremail@example.com">
+            <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Gmail_2024_logo.svg" alt="Gmail">
+        </a>
+    </div>
 </div>
 
 <br>
