@@ -1,7 +1,7 @@
  <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF"/>
 </div>
-<h1 align="center">Hi <img src="https://github.com/justanoobcoder/justanoobcoder/blob/master/handwave.gif" width="25">, I'm Tiều Phu</h1> 
+<h1 align="center">Hi <img src="https://github.com/justanoobcoder/justanoobcoder/blob/master/handwave.gif" width="25"></h1> 
 <h3 align="center">A passionate frontend developer from Việt Nam</h3> 
 
 <div align="center">
