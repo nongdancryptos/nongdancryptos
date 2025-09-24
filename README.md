@@ -89,10 +89,10 @@
 [spp]: https://paypal.me/hungsyn
 [spp-b]: https://img.shields.io/badge/I_APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00
 [pypl]: https://paypal.me/hungsyn
-[eth-pol]: https://raw.githubusercontent.com/nongdancryptos/nongdancryptos/refs/heads/main/QR-Code/eth-pol-address-qrcode.png
-[btc]: https://raw.githubusercontent.com/nongdancryptos/nongdancryptos/refs/heads/main/QR-Code/btc-address-qrcode.png
-[sol]: https://raw.githubusercontent.com/nongdancryptos/nongdancryptos/refs/heads/main/QR-Code/benice.sol-address-qrcode.png
-[sui]: https://raw.githubusercontent.com/nongdancryptos/nongdancryptos/refs/heads/main/QR-Code/sui-address-qrcode.png
+[eth-pol]: https://raw.githubusercontent.com/nongdancryptos/nongdancryptos/refs/heads/main/QR-Code/evm_wallet_qr.png
+[btc]: https://raw.githubusercontent.com/nongdancryptos/nongdancryptos/refs/heads/main/QR-Code/btc_wallet_qr.png
+[sol]: https://raw.githubusercontent.com/nongdancryptos/nongdancryptos/refs/heads/main/QR-Code/sol_wallet_qr.png
+[sui]: https://raw.githubusercontent.com/nongdancryptos/nongdancryptos/refs/heads/main/QR-Code/sui_wallet_qr.png
 [pypl-b]: https://img.shields.io/badge/Paypal-00457C.svg?&style=for-the-badge&logo=paypal&logoColor=white
 [eth-b]: https://img.shields.io/badge/ETH-0xf56d2ab9c35cd51dd5366b96fe7622d99de06458-informational.svg?&style=for-the-badge&color=blue
 [ethx]: https://img.shields.io/badge/Ethereum-0xf56d2ab9c35cd51dd5366b96fe7622d99de06458-blue?&style=for-the-badge&logo=Ethereum&logoColor=blue
@@ -105,9 +105,9 @@
 [tph-lk]: https://github.com/ryo-ma/github-profile-trophy
 [tph]: https://github-profile-trophy.vercel.app/?username=cmalf&theme=chalk&no-bg=true&margin-w=15
 [gp]: https://img.shields.io/badge/Github_Page:-Flynn_Docs-B22222.svg?logo=github&logoColor=white&color=B22222
-[bn-b]: https://img.shields.io/badge/BINANCE_PAY_ID_:_745454545_.svg?&style=for-the-badge&logo=Github&logoColor=FF8C00&color=gold
-[bn]: https://img.shields.io/badge/BINANCE_PAY_ID_:_96771283-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold
-[bn-lk]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Binance-pay-code.jpeg
+[bn-b]: https://img.shields.io/badge/BINANCE_PAY_ID_:_518668773_.svg?&style=for-the-badge&logo=Github&logoColor=FF8C00&color=gold
+[bn]: https://img.shields.io/badge/BINANCE_PAY_ID_:518668773-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold
+[bn-lk]: https://github.com/nongdancryptos/nongdancryptos/blob/main/QR-Code/Binance-Pay-QR.jpg
 <!---------------------END CONFIG LINKS------------------------------->
 
 <div align="center">
@@ -175,7 +175,8 @@
 | [![btc][btc-b]][btc] | ☕️ |  
 | [![sol][sol-b]][sol] | 🍵 |  
 | [![eth-pol][pol-b]][eth-pol] | ☕️ |  
-| <img src="https://github.com/user-attachments/assets/7fcab578-b4e7-4709-9732-0be09a15116b" width=150 height=250> [![bn-lk][bn]][bn-lk] | 🔶 |  
+| [![sui-b]][sui] | 🌊 |  
+| <img src="https://github.com/nongdancryptos/nongdancryptos/blob/edf3a5886da5e5b9c8bcc5877b3d38ddba04d6c3/QR-Code/Binance-Pay-QR.jpg" width=150 height=250> [![bn-lk][bn]][bn-lk] | 🔶 |  
 
 ---
 
