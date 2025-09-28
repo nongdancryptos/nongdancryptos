@@ -122,7 +122,7 @@
   
 [![tg-clk][tg-c]][tg-clk] <br> [![tg-glk][tg-g]][tg-glk]
 <div align=left > <hr>
----
+
 ## 👋 About Me  
 
 - 👋 I’m **TieuPhu**, a curious learner who loves to explore new things.  
@@ -191,7 +191,7 @@
   <div align="center">
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=tuhinmallick&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=nongdancryptos&&style=flat-square" align="center" />
 </div>
  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
