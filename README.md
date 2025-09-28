@@ -1,6 +1,6 @@
 <!-- Header đẹp + animation -->
 <p align="center">
-  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
+  <img src="https://github.com/nongdancryptos/nongdancryptos/blob/main/images/Developer.gif" width="200px">
 </p>
 
 <h1 align="center">
@@ -11,15 +11,15 @@
 
 <div align="center">
 
-[![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
-[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAkashSingh3031%26type%3Djson)](https://github.com/AkashSingh3031) 
-[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AkashSingh3031/AkashSingh3031?style=plastic&logo=history)](https://github.com/AkashSingh3031/AkashSingh3031/commits/master) 
-[![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/AkashSingh3031/AkashSingh3031?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/AkashSingh3031/AkashSingh3031/graphs/contributors) 
-[![Today's Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/AkashSingh3031) 
-[![Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/AkashSingh3031) 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/akashsingh3031) 
-[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AkashSingh3031?style=social&logo=followers)](https://github.com/AkashSingh3031?tab=followers)
+[![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/nongdancryptos) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/nongdancryptos/The-Complete-FAANG-Preparation) 
+[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%nongdancryptos%26type%3Djson)](https://github.com/nongdancryptos) 
+[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/nongdancryptos/nongdancryptos?style=plastic&logo=history)](https://github.com/nongdancryptos/nongdancryptos/commits/master) 
+[![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/nongdancryptos/nongdancryptos?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/nongdancryptos/nongdancryptos/graphs/contributors) 
+[![Today's Profile Visitors](https://hits.sh/github.com/nongdancryptos/nongdancryptos.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/nongdancryptos) 
+[![Profile Visitors](https://hits.sh/github.com/nongdancryptos/nongdancryptos.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/nongdancryptos) 
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/nongdancryptos)](https://leetcode.com/nongdancryptos) 
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/nongdancryptos?style=social&logo=followers)](https://github.com/nongdancryptos?tab=followers)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <!---------------------START CONFIG LINKS------------------------------>
 [t3]: https://text.media.giphy.com/v1/media/giphy.gif?token=...
-[fd]:https://cmalf.github.io
+[fd]:https://nongdancryptos.github.io
 [tp-tx-lk]: https://readme-typing-svg.demolab.com
 [h2]: https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...
 [sk]: https://img.shields.io/badge/Skills-Programming_Languages-informational.svg?&color=B22222&style=plastic
@@ -46,13 +46,13 @@
 [cn]: https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&width=435&lines=%F0%9F%AB%B1%F0%9F%8F%BC%E2%80%8D%F0%9F%AB%B2%F0%9F%8F%BB+%EF%BC%A7%EF%BC%A5%EF%BC%B4+%EF%BC%A9%EF%BC%AE+%EF%BC%B4%EF%BC%AF%EF%BC%B5%EF%BC%A3%EF%BC%A8
 [stt-lk]: https://github.com/anuraghazra/github-readme-stats
 [str-lk]: https://git.io/streak-stats
-[tg-clk]: https://t.me/+1C6KHwq4HWE4OThl
-[tg-c]: https://img.shields.io/badge/Telegram_Channel:-The_Digital_Alchemist_(CMALF)-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue
-[tg-g]: https://img.shields.io/badge/Telegram_Group:-TDA_(CMALF)_Chat-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=gold
-[tg-glk]: https://t.me/+O_0eLwojWD03MDU1
-[stts]: https://github-readme-stats.vercel.app/api?username=cmalf&theme=vision-friendly-dark&rank_icon=github
-[strk]: https://streak-stats.demolab.com?user=cmalf&theme=highcontrast&hide_border=false
-[tl]: https://github-readme-stats.vercel.app/api/top-langs/?username=cmalf&layout=compact&hide_progress=false&theme=highcontrast
+[tg-clk]: https://t.me/OnTopAirdrop
+[tg-c]: https://img.shields.io/badge/Telegram_Channel:-OnTop_Airdrop-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue
+[tg-g]: https://img.shields.io/badge/Telegram_Group:-OnTop_Airdrop_Chat-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=gold
+[tg-glk]: https://t.me/OnTopAirdropGroup
+[stts]: https://github-readme-stats.vercel.app/api?username=nongdancryptos&theme=vision-friendly-dark&rank_icon=github
+[strk]: https://streak-stats.demolab.com?user=nongdancryptos&theme=highcontrast&hide_border=false
+[tl]: https://github-readme-stats.vercel.app/api/top-langs/?username=nongdancryptos&layout=compact&hide_progress=false&theme=highcontrast
 [bash]: https://img.shields.io/badge/Shell_script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
 [php]: https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [py]: https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white
@@ -68,13 +68,13 @@
 [c++]: https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [pl]: https://img.shields.io/badge/Perl-39457E.svg?style=for-the-badge&logo=perl&logoColor=white
 [lua]: https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white
-[ig-lk]: https://instagram.com/thesilentreal
-[trd-lk]: https://threads.net/thesilentreal
-[x-lk]: https://x.com/furqonflynn
-[dc-lk]: https://discord.com/user/968987915596202065
-[tg-lk]: https://telegram.me/furqonflynn
-[ms-lk]: https://mastodon.social/@furqonflynn
-[gh-lk]: https://github.com/cmalf
+[ig-lk]: https://instagram.com/
+[trd-lk]: https://threads.net/
+[x-lk]: https://x.com/OnTopAirdrop
+[dc-lk]: https://discord.com/user/
+[tg-lk]: https://telegram.me/TieuPhuOnTop
+[ms-lk]: https://mastodon.social/
+[gh-lk]: https://github.com/nongdancryptos
 [ig]: https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white
 [trd]: https://img.shields.io/badge/Threads-000033.svg?style=for-the-badge&logo=threads&logoColor=white
 [x]: https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white
@@ -82,7 +82,7 @@
 [tg]: https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white
 [gh]: https://img.shields.io/badge/Github-100000.svg?style=for-the-badge&logo=github&logoColor=white
 [ms]: https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white
-[ml]: mailto:caturmahdi.alfurqon@icloud.com
+[ml]: mailto:nongdancryptos@gmail.com
 [ml-b]:https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [cff]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee! 
 [cffx]: https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BB36&center=true&vCenter=true&width=435&lines=%F0%9F%A4%8E+BUY+ME+COFFEE+%F0%9F%A4%8E
@@ -101,9 +101,9 @@
 [pol-b]: https://img.shields.io/badge/POL-0xf56d2ab9c35cd51dd5366b96fe7622d99de06458-cyan.svg?&style=for-the-badge&logo=POLYGON&logoColor=cyan
 [sui-b]: https://img.shields.io/badge/SUI-0x0d43d68ca78ef074251f9265af0f7af3cc52b62daa9f44b918378f54728c7175-6FBCF0.svg?&style=for-the-badge&logo=sui&logoColor=white
 [vs-lk]: https://github.com/antonkomarev/github-profile-views-counter
-[vws]: https://komarev.com/ghpvc/?username=cmalf&label=Profile%20views&color=00CED1&style=plastic
+[vws]: https://komarev.com/ghpvc/?username=nongdancryptos&label=Profile%20views&color=00CED1&style=plastic
 [tph-lk]: https://github.com/ryo-ma/github-profile-trophy
-[tph]: https://github-profile-trophy.vercel.app/?username=cmalf&theme=chalk&no-bg=true&margin-w=15
+[tph]: https://github-profile-trophy.vercel.app/?username=nongdancryptos&theme=chalk&no-bg=true&margin-w=15
 [gp]: https://img.shields.io/badge/Github_Page:-Flynn_Docs-B22222.svg?logo=github&logoColor=white&color=B22222
 [bn-b]: https://img.shields.io/badge/BINANCE_PAY_ID_:_518668773_.svg?&style=for-the-badge&logo=Github&logoColor=FF8C00&color=gold
 [bn]: https://img.shields.io/badge/BINANCE_PAY_ID_:518668773-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold
@@ -118,9 +118,11 @@
 ![still awake](https://github.com/user-attachments/assets/2d1c7b36-d6f8-476f-8003-2dc3e34f78c3)
 
 </div>
-
+<br>  
+  
+[![tg-clk][tg-c]][tg-clk] <br> [![tg-glk][tg-g]][tg-glk]
+<div align=left > <hr>
 ---
-
 ## 👋 About Me  
 
 - 👋 I’m **TieuPhu**, a curious learner who loves to explore new things.  
