@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GitHub-safe SVG: no JS / no external refs -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="1200" height="720" viewBox="0 0 1200 720">
+
+  <!-- ============ DEFS ============ -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+
+    <style><![CDATA[
+      /* Layout (comment):
+         CARD: x=20 y=20 w=1160 h=680   → right edge = 1180
+         INNER LEFT  = 36
+         INNER RIGHT = 1164
+         LM=52, LABEL_W=160, GAP=20
+         PILL_X = 232  (cột địa chỉ/pill – tất cả plain address cũng dùng x=232)
+         PILL_W = 896
+         BADGE_H = PILL_H = 34;  ROW_H ≈ 82
+      */
+      .card   { fill:url(#bg); stroke:#1f2937; stroke-width:1; }
+      .title  { font:700 24px/1.2 ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial; fill:#f8fafc; }
+      .sub    { font:500 14px/1.6 ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial; fill:#cbd5e1; }
+      .sep    { stroke:#1f2937; stroke-width:1; opacity:.65; }
+
+      .rowbg  { fill:#0b1220; opacity:.35; rx:12; ry:12; }
+
+      .badgeText { font:800 14px/1 ui-sans-serif,system-ui,Segoe UI,Arial; fill:#fff; letter-spacing:.3px; }
+      .pillText  { font:800 13.5px/1 ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace; fill:#fff; letter-spacing:.55px; }
+
+      .addr   { font:500 15.5px/1.3 ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace; fill:#e5e7eb; }
+      .hint   { font:500 13px/1.4 ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace; fill:#9ca3af; }
+
+      .footText  { font:800 14px ui-sans-serif,system-ui,Segoe UI,Arial; fill:#fff; letter-spacing:.35px; }
+    ]]></style>
+  </defs>
+
+  <!-- ============ CARD ============ -->
+  <rect x="20" y="20" width="1160" height="680" rx="22" ry="22" class="card" filter="url(#shadow)"/>
+
+  <!-- Header -->
+  <text x="52" y="82" class="title">💖 Thanks for your support</text>
+  <text x="52" y="106" class="sub">Mỗi đóng góp đều giúp mình duy trì & phát triển dự án. Cảm ơn bạn!</text>
+  <!-- separators bám INNER LEFT/RIGHT để không hở hoặc tràn -->
+  <line x1="36" y1="120" x2="1164" y2="120" class="sep"/>
+
+  <!-- ===== PAYPAL (row 1) ===== -->
+  <rect x="36" y="132" width="1128" height="82" class="rowbg"/>
+  <!-- Badge -->
+  <rect x="52" y="156" width="160" height="34" rx="8" ry="8" fill="#0ea5e9"/>
+  <text x="72" y="178" class="badgeText">PAYPAL</text>
+  <!-- Pill -->
+  <rect x="232" y="156" width="896" height="34" rx="8" ry="8" fill="#3b82f6"/>
+  <text x="244" y="178" class="pillText">PAYPAL.ME/HUNGSYN</text>
+  <!-- Hint -->
+  <text x="52" y="206" class="hint">Tip: Bạn có thể đặt thêm link PayPal ngay trên README để người dùng bấm nhanh.</text>
+
+  <!-- Divider -->
+  <line x1="36" y1="226" x2="1164" y2="226" class="sep"/>
+
+  <!-- ===== ETH / POL (row 2) ===== -->
+  <rect x="36" y="238" width="1128" height="82" class="rowbg"/>
+  <rect x="52" y="262" width="160" height="34" rx="8" ry="8" fill="#1d4ed8"/>
+  <text x="72" y="284" class="badgeText">ETH / POL</text>
+  <rect x="232" y="262" width="896" height="34" rx="8" ry="8" fill="#2563eb"/>
+  <text x="244" y="284" class="pillText">0XF56D2AB9C35CD51DD5366B96FE7622D99DE06458</text>
+  <!-- Plain address: luôn x=232 để thẳng với pill -->
+  <text x="232" y="308" class="addr">0xf56d2ab9c35cd51dd5366b96fe7622d99de06458</text>
+
+  <!-- ===== BTC (row 3) ===== -->
+  <rect x="36" y="320" width="1128" height="82" class="rowbg"/>
+  <rect x="52" y="344" width="160" height="34" rx="8" ry="8" fill="#b45309"/>
+  <text x="72" y="366" class="badgeText">BTC</text>
+  <rect x="232" y="344" width="896" height="34" rx="8" ry="8" fill="#f59e0b"/>
+  <text x="244" y="366" class="pillText">BC1QZGK2TC0UJEZGREDXWX0GD6YKMCDFF94AZFNVJ5</text>
+  <text x="232" y="390" class="addr">bc1qzgk2tc0ujezgredxwx0gd6ykmcdff94azfnvj5</text>
+
+  <!-- ===== SOL (row 4) ===== -->
+  <rect x="36" y="402" width="1128" height="82" class="rowbg"/>
+  <rect x="52" y="426" width="160" height="34" rx="8" ry="8" fill="#7c3aed"/>
+  <text x="72" y="448" class="badgeText">SOL</text>
+  <rect x="232" y="426" width="896" height="34" rx="8" ry="8" fill="#a855f7"/>
+  <text x="244" y="448" class="pillText">7PTERKBWTNDYNU8NFTAKPN6KE8GDCKZYG5XUHP9EHGWX</text>
+  <text x="232" y="472" class="addr">7PterKBwtNdYNu8nftAKpn6ke8GdCkzyg5xUHp9EhGWx</text>
+
+  <!-- ===== SUI (row 5) ===== -->
+  <rect x="36" y="484" width="1128" height="82" class="rowbg"/>
+  <rect x="52" y="508" width="160" height="34" rx="8" ry="8" fill="#0e7490"/>
+  <text x="72" y="530" class="badgeText">SUI</text>
+  <rect x="232" y="508" width="896" height="34" rx="8" ry="8" fill="#06b6d4"/>
+  <text x="244" y="530" class="pillText">0XD43D68CA78EF074251F9265AF0F7AF3CC52B62DAA9F44B918378F54728C7175</text>
+  <text x="232" y="554" class="addr">0x0d43d68ca78ef074251f9265af0f7af3cc52b62daa9f44b918378f54728c7175</text>
+
+  <!-- Footer divider (bám cùng mép trái/phải với rowbg) -->
+  <line x1="36" y1="574" x2="1164" y2="574" class="sep"/>
+
+  <!-- Footer badge -->
+  <rect x="52" y="588" width="300" height="34" rx="8" ry="8" fill="#334155"/>
+  <text x="66" y="610" class="footText">I APPRECIATE YOUR SUPPORT</text>
+
+  <!-- Final hint -->
+  <text x="52" y="640" class="hint">Muốn 1-click copy? Hãy để thêm các địa chỉ dưới dạng code block trong README (GitHub sẽ có nút Copy).</text>
+</svg>
