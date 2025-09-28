@@ -134,6 +134,7 @@
 ## 🛠 Skills & Tech Stack  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=00FF00;FFD700;FF4500;1E90FF;FF1493&background=000000&center=true&vCenter=true&width=600&lines=Make+Money+Online+💻🌍;Freedom+Through+Digital+Hustle+💸;Smart+Work+%3E+Hard+Work+🚀;Click.+Earn.+Repeat.+🔁;Work+Anytime,+Earn+Anywhere+🌎;Digital+Hustle,+Global+Reach+🌐;Turn+Ideas+Into+Income+💡;Passive+Income,+Active+Life+⏳;Think+Digital,+Earn+Global+🌍;Build+Online,+Earn+Freedom+🕊️)](https://readme-typing-svg.demolab.com)
+
 ![Skills](https://img.shields.io/badge/Skills-Programming_Languages-informational.svg?style=flat-square&color=000000&logo=github&logoColor=white)
 
 **Proficient in:**  
